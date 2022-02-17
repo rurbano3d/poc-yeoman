@@ -1,0 +1,14 @@
+{
+  "name": "generator-poc_ru",
+  "version": "0.1.0",
+  "description": "create a generator for ems ms",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^1.0.0"
+  }
+}
